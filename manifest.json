@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Wiki plugin",
+  "description": "Wiki plugin",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+  	"64": "icon.png"
+  },
+  "content_scripts":[
+  	{
+  		"matches": ["http://*/*", "https://*/", "<all_urls>"],
+  		"js": ["jquery-3.2.1.js", "script.js"]
+  	}
+  ]
+}
