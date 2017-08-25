@@ -59,15 +59,19 @@ $.fn.searchPage = function (title) {
 	        	var queryPage = data.query.pages;
 	       		var queryPagesKey = Object.keys(queryPage)[0];
 	        	var wikiContent = queryPage[queryPagesKey]["extract"];
-	        	if(wikiContent != undefined){
-	        	    $(window.text.document.getElementsByTagName("body")[0]).html(wikiContent);
+	        	if(wikiContent != undefined &&
+	        	   wikiContent != "" &&
+	        	   wikiContent.search('From other capitalisation') < 0 && 
+	        	   wikiContent.search('may refer to') < 0 ){
+	        	    $('#text').html(wikiContent);
 	        	}
 	        	else{
-	        		$('#text').html("Nothing");
+	        		$('#text').html("There is nothing. You have to choose another page!");
 	        	}
 	        }
 	        catch (err) {
-	            $('#text').html(err.message);
+	        	$('#text').html("There is nothing. You have to choose another page!");
+	            console.log(err.message);
 	        }
 	 	});
 }
