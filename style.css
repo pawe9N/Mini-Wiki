@@ -6,6 +6,8 @@
 body{
 	background-color:  #F9F6F4;
 	width: 500px;
+	border: 5px solid #decec3;
+	border-radius: 10px;
 }
 
 div{
@@ -20,9 +22,10 @@ div{
 }
 
 #content{
+	margin-top: 10px;
 	font-family: verdana;
 	overflow: auto;
-	height: 200px;
+	height: 300px;
 	color:  #000000;
 }
 
@@ -30,6 +33,15 @@ div{
 	text-align: center;
 	padding-bottom: 10px;
 	font-size: 20px;
+}
+
+#image{
+	display: none;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-bottom: 10px;
 }
 
 #text{
@@ -62,6 +74,11 @@ button:active{
 #random{
 	position: absolute;
 	right: 15px;
+}
+
+#submit:disabled{
+	background-color: silver;
+	cursor: not-allowed;
 }
 
 select{
