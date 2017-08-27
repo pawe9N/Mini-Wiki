@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	$('#submit').prop('disabled', true);
+    $('#submit').prop('disabled', true);
     $('#search').on("keyup focus mousedown", function(){
         $('#submit').prop('disabled', this.value == "" ? true : false);     
 
