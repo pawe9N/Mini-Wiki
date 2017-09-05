@@ -10,7 +10,7 @@ If you want to use this program, you have to download all files. Then you should
 
 - start an application
 
-<a href="https://imgflip.com/gif/1urqoq"><img src="https://i.imgflip.com/1urqoq.gif" title="made at imgflip.com"/></a>
+<img src="https://media.giphy.com/media/3ov9jRStmFnsfATBOE/giphy.gif"/>
 
 - searching for specific page
 
