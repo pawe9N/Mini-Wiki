@@ -14,12 +14,12 @@ If you want to use this program, you have to download all files. Then you should
 
 - searching for specific page
 
-<a href="https://imgflip.com/gif/1urqj7"><img src="https://i.imgflip.com/1urqj7.gif" title="made at imgflip.com"/></a>
+<img src="https://media.giphy.com/media/3o7aD05Eu2Zn8u80FO/giphy.gif"/>
 
 - changing language
 
-<a href="https://imgflip.com/gif/1urqln"><img src="https://i.imgflip.com/1urqln.gif" title="made at imgflip.com"/></a>
+<img src="https://media.giphy.com/media/3o7aD2yBFztylH83h6/giphy.gif"/>
 
 - how random button works
 
-<a href="https://imgflip.com/gif/1urqt8"><img src="https://i.imgflip.com/1urqt8.gif" title="made at imgflip.com"/></a>
+<img src="https://media.giphy.com/media/xT9Igr8oDuzPMtA1t6/giphy.gif"/>
