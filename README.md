@@ -1,6 +1,9 @@
 # Mini Wiki
 
-Mini Wiki is an extension for chrome, which was made for purpose of learning jquery and MediaWiki's API. This extension can show you first section and main image of almost every wikipedia page.
+Mini Wiki is an extension for chrome, which was made for purpose of learning jquery and MediaWiki's API.
+
+## Description of application
+This extension can show you first section and main image of almost every wikipedia page.
 
 ## Getting Started
 
