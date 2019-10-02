@@ -25,4 +25,4 @@ If you want to use this program, you have to download all files. Then you should
 
 - how random button works
 
-<img src="https://i.imgur.com/bRHzvRG.gif"/>
+<img src="https://i.imgur.com/AylZp8y.gif"/>
