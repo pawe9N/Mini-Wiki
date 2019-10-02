@@ -13,16 +13,16 @@ If you want to use this program, you have to download all files. Then you should
 
 - start an application
 
-<img src="https://media.giphy.com/media/3ov9jRStmFnsfATBOE/giphy.gif"/>
+<img src="https://i.imgur.com/32LmUfJ.gif"/>
 
 - searching for specific page
 
-<img src="https://media.giphy.com/media/3o7aD05Eu2Zn8u80FO/giphy.gif"/>
+<img src="https://i.imgur.com/XKXSxDk.gif"/>
 
 - changing language
 
-<img src="https://media.giphy.com/media/3o7aD2yBFztylH83h6/giphy.gif"/>
+<img src="https://i.imgur.com/4EZ9rmc.gif"/>
 
 - how random button works
 
-<img src="https://media.giphy.com/media/xT9Igr8oDuzPMtA1t6/giphy.gif"/>
+<img src="https://i.imgur.com/bRHzvRG.gif"/>
